@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2005",
+      "price": "5,999",
+      "description": "This is an pretty 2005 Nissan Rogue with only 20,980 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "CrV",
+      "year": "2006",
+      "price": "6,999",
+      "description": "This is an immaculate 2006 Honda CRV with only 88,002 miles on it. New air freshener included!"
+    },
+    {
+      "make": "Subaru",
+      "model": "Outback",
+      "year": "2007",
+      "price": "7,999",
+      "description": "This is an fun 2007 Subaru Outback with only 55,040 miles on it. Soft seats so you can power nap!"
+    }
+  ]
+}
